@@ -13,8 +13,8 @@ Frontend: HTML, CSS, Bootstrap, FontAwesome, Javascript
 Screenshots:
 
 ![Screenshot](admin/assets/img/s1.jpg)
-![Screenshot](admin/assets/img/s200.jpg) <img src="admin/assets/img/s201.jpg" width="400"> <img src="admin/assets/img/s2.jpg" width="500">
-![Screenshot](admin/assets/img/s2.jpg)
+![Screenshot](admin/assets/img/s200.jpg) <img src="admin/assets/img/s201.jpg" width="400">
+<img src="admin/assets/img/s2.jpg" width="500">
 <img src="admin/assets/img/s3.jpg" width="700">
 <img src="admin/assets/img/s4.jpg" width="700">
 <img src="admin/assets/img/s5.jpg" width="700">
